@@ -1,7 +1,16 @@
 
 		<h1>Sample App</h1>
 		<p>
-			This is the home page for the <a href="http://railstutorial.org">Ruby on Rails tutorial</a>
+		<% if flash[:notice] %><div class="green flash"><b>Success:</b><%= flash[:notice] %></div><% end %>	
+		<% if flash[:warning] %><div class="red flash"><b>Error:</b><%= flash[:warning] %></div><% end %>	
+		</p>
+		<p>
+			
+			<%= form_tag('/contact') do %>
+				<div><p>Your Email: </p><%= email_field_tag 'email' %></div>
+				<div><%= submit_tag 'Subscribe' %></div>
+			<% end %>
+			
 		</p>
 
 
