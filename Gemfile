@@ -6,6 +6,8 @@ gem 'rails', '3.0.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem "capistrano", "~> 2.8.0"
+gem 'hominid', '2.1.9'
 
 group :development do 
 	gem "rspec-rails", "~> 2.6.1"

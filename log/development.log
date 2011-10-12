@@ -1,0 +1,130 @@
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-08-31 23:19:57 -0400
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/" for 127.0.0.1 at 2011-08-31 23:21:08 -0400
+
+ActionController::RoutingError (No route matches "/pages"):
+  
+
+Rendered /usr/local/lib/ruby/gems/1.9.1/gems/actionpack-3.0.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-09-01 21:56:38 -0400
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 7ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2011-09-01 21:56:46 -0400
+  Processing by PagesController#contact as HTML
+Rendered pages/contact.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-09-01 21:56:59 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/" for 127.0.0.1 at 2011-10-11 21:24:59 -0400
+
+ActionController::RoutingError (No route matches "/pages"):
+  
+
+Rendered /usr/local/lib/ruby/gems/1.9.1/gems/actionpack-3.0.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 21:25:05 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2011-10-11 21:54:20 -0400
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /usr/local/lib/ruby/gems/1.9.1/gems/actionpack-3.0.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 21:54:27 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:05:20 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:54:25 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:55:40 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:55:41 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:55:42 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:56:30 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2011-10-11 22:56:48 -0400
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/homw" for 127.0.0.1 at 2011-10-11 22:56:56 -0400
+
+ActionController::RoutingError (No route matches "/pages/homw"):
+  
+
+Rendered /usr/local/lib/ruby/gems/1.9.1/gems/actionpack-3.0.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-10-11 22:57:01 -0400
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-10-11 23:00:43 -0400
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (1.1ms)
+Rendered pages/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-10-11 23:00:44 -0400
+  Processing by PagesController#home as HTML
+Rendered layouts/_stylesheets.html.erb (1.1ms)
+Rendered pages/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
